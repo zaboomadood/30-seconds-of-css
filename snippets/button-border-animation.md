@@ -16,7 +16,7 @@ Creates a border animation on hover.
 
 ```css
 .animated-border-button {
-  background-color: #263059;
+  background-color: #265927;
   border: none;
   color: #ffffff;
   outline: none;
@@ -35,13 +35,13 @@ Creates a border animation on hover.
 }
 
 .animated-border-button:before {
-  border-top: 2px solid #263059;
+  border-top: 2px solid #265927;
   right: 0;
   top: -4px;
 }
 
 .animated-border-button:after {
-  border-bottom: 2px solid #263059;
+  border-bottom: 2px solid #265927;
   bottom: -4px;
   left: 0;
 }
